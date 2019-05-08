@@ -51,7 +51,7 @@ class Dashboard extends React.Component {
     }
     return (
       <div className="page-panel">
-        <table className="app-wrapper5 responce">
+        <table className="app-wrapper5 responce" border={1}>
           <tr>
             <td>ID</td>
             <td>NAME</td>
